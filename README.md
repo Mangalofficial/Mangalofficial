@@ -7,7 +7,7 @@
 <h4 align="center"> I'm a Student, TechEnthusiast ✌ </h1>
 <h5 align="center"> 🔭 I’m currently working on [RH294]Ansible, App Development</h1>
 
-#### <div align="center"> 🤠 Founder member and Technical Head at [Manaswin](https://www.linkedin.com/company/manasvin/)</div>
+#### <div align="center"> 🤠 Founder and Technical Head at [Manasvin](https://www.linkedin.com/company/manasvin/)</div>
 
 <h5 align="center"> 🌱 I’m currently learning </h1>
 <p align="center">
