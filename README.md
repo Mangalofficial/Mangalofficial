@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-KumarManglam-blue?style=social&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/kumar-manglam/)](https://www.linkedin.com/in/kumar-manglam/)    [![Twitter Badge](http://img.shields.io/badge/-@manglam-1ca0f1?style=social&logo=twitter&logoColor=black&link=https://twitter.com/kumar_manglam_)](https://twitter.com/kumar_manglam_)    [![Medium Badge](https://img.shields.io/badge/-@manglam235-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@manglam235)](https://medium.com/@manglam235/)  
 
 
+
 <h2 align="center"> Hi there, I'm Kumar Manglam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="200px" ><br> </p>
 <h4 align="center"> I'm a Student, TechEnthusiast ✌ </h1>
@@ -41,4 +42,8 @@
 - 💬 Ping Me about #Cloud, #DevOps, #MLOps, #Deep Learning, #Machine Learning, #Data Science, #Computer Vision, #Flutter and anything you like... I'll try my best to help you.😊❤
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mangalofficial)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://komarev.com/ghpvc/?username=Mangalofficial&color=brightgreen)
+
+
